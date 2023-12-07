@@ -1,0 +1,52 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+    padding: 100px;
+   
+    
+}
+.imgContainer{
+    margin: auto;
+    background-color: white;
+    width: 280px;
+    height:470px;
+    border-radius: 15px;
+    text-align: center;
+    
+
+}
+#img{
+    margin-top: 10px;
+    width: 250px;
+    height:260px;
+    border-radius: 10px;
+    
+
+
+}
+#paragraph{
+    margin:auto;
+    font-size: 20px;
+    font-family: "Outfit";
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+#paragraph2{
+    color:lightgrey ;
+    font-family: "Outfit";
+    margin-top: 10px;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+}
+.attribution{
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+
+}
+.attribution:hover{
+    color: aqua;
+}
